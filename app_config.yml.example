@@ -1,0 +1,4 @@
+---
+# Rename this file to just app_config.yml and update with your own configs
+bot_token: "<TOKEN GOES HERE>"
+bot_presence: "League of Nitewatch"
